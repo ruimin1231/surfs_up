@@ -1,12 +1,17 @@
 ## Analyzing weather data on Python from an SQLite Database using SQLAlchemy and a Flask App
+
 ---
 
 ## Overview
+
 ---
+
 This project is about analyzing weather data from Oahu, Hawaii to support a Surf and Ice-cream shop investment proposal. The analysis consisted of determining whether the seasons could affect the surf and ice-cream business. The final product was a full report and a flask application that read the data from an SQLite Database for other users to access.
 
 ## Resources
+
 ---
+
 * Data resources:
  - hawaii.sqlite
  
@@ -33,6 +38,7 @@ Statistical results of the precipitation and temperature of the two most active 
 
 ## Summary
 ___
+
 The results were found by querying the SQLite database from the Jupyter notebook to then use the describe() function to get the statistical analysis.
 
 For more detail on the Python script and libraries used refer to the [Surfs_up](SurfsUp_Challenge.ipynb)
