@@ -1,6 +1,5 @@
-## Surfs_Up
+## Analyzing weather data on Python from an SQLite Database using SQLAlchemy and a Flask App
 ---
-### _Analyzing weather data on Python from an SQLite Database using SQLAlchemy and a Flask App_
 
 ## Overview
 ---
