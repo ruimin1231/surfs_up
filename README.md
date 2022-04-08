@@ -1,12 +1,12 @@
-# Surfs_Up
+## Surfs_Up
 ---
 ### _Analyzing weather data on Python from an SQLite Database using SQLAlchemy and a Flask App_
 
-# Overview
+## Overview
 ---
-This project consisted on analyzing weather data from Oahu, Hawaii to support a Surf and Ice-cream shop investment proposal. The analysis consisted on determining whether the seasons could affect the surf and ice-cream business. The final product was a full report and a flask application that read the data from a SQLite Database for other users to access it.
+This project is about analyzing weather data from Oahu, Hawaii to support a Surf and Ice-cream shop investment proposal. The analysis consisted of determining whether the seasons could affect the surf and ice-cream business. The final product was a full report and a flask application that read the data from an SQLite Database for other users to access.
 
-# Resources
+## Resources
 ---
 * Data resources:
  - hawaii.sqlite
@@ -22,7 +22,7 @@ This project consisted on analyzing weather data from Oahu, Hawaii to support a 
 
 Statistical results of the precipitation and temperature of the two most active and important months across the years as follows:
 
-[June & December Png files](screenshots)
+[June & December Png files](images)
 
 1. As it can be seen, the average temperature for both June and December are considered good weather suitable for ice-cream (71°F and 74.0°F).
 
